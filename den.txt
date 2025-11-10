@@ -1,2 +1,4 @@
 probnyi fail dlzy dz
-oshibka prikola
+=======
+salam popalam
+>>>>>>> 025292080cb42fd8d7603a3cc0309ab5f30fd411
